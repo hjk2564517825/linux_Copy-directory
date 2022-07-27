@@ -1,0 +1,2 @@
+# linux_Copy-directory
+基于linux的目录文件拷贝，就是用代码写了个和linux系统cp指令功能相同的一个项目
